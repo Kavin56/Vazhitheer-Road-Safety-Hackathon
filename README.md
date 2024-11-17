@@ -55,7 +55,7 @@ This project leverages state-of-the-art AI tools to create realistic 3D animatio
 ### 📥 **Steps**
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/your-repo/road-safety-animation.git](https://github.com/Kavin56/Vazhitheer-Road-Safety-Hackathon/)
+   git clone https://github.com/Kavin56/Vazhitheer-Road-Safety-Hackathon.git
    cd road-safety-animation
    ```
 
