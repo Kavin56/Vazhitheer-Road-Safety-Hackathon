@@ -61,7 +61,7 @@ def load_image_in_blender(image_path):
 
 # Main script
 if __name__ == "__main__":
-    prompt = "A 3D realistic rendering of a futuristic city with flying cars and skyscrapers"  # Replace with your desired prompt
+    prompt = "On 4-lane divided national highways in Chennai’s Northern Districts, a two-wheeler and a four-wheeler head-on collision occurs. The two-wheeler istraveling at 80 km/h, while the four-wheeler is traveling at 120km/h, resulting in a fatal injury to the rider."  # Replace with your desired prompt
     output_file = os.path.join(output_dir, "generated_image.png")  # Define the path for the generated image
     
     # Generate the image
